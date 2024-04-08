@@ -1,5 +1,5 @@
 # Github Metadata plugin
-repository: box/spout
+repository: imaginaroom/spout
 plugins:
   - "jekyll-github-metadata"
 

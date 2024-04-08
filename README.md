@@ -1,8 +1,8 @@
 # Spout
 
-[![Latest Stable Version](https://poser.pugx.org/box/spout/v/stable)](https://packagist.org/packages/box/spout)
+[![Latest Stable Version](https://poser.pugx.org/imaginaroom/spout/v/stable)](https://packagist.org/packages/imaginaroom/spout)
 [![Project Status](https://opensource.box.com/badges/inactive.svg)](https://opensource.box.com/badges)
-[![example workflow](https://github.com/box/spout/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/box/spout/actions/workflows/ci.yml?query=branch%3Amaster)
+[![example workflow](https://github.com/imaginaroom/spout/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/imaginaroom/spout/actions/workflows/ci.yml?query=branch%3Amaster)
 [![Coverage Status](https://coveralls.io/repos/github/box/spout/badge.svg?branch=master)](https://coveralls.io/github/box/spout?branch=master)
 [![Total Downloads](https://poser.pugx.org/box/spout/downloads)](https://packagist.org/packages/box/spout)
 

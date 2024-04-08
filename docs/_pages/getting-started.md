@@ -23,7 +23,7 @@ This guide will help you install {{ site.spout_html }} and teach you how to use 
 
 Run the following command:
 ```powershell
-$ composer require box/spout
+$ composer require imaginaroom/spout
 ```
 
 ### Manual installation
@@ -32,7 +32,7 @@ If you can't use Composer, no worries! You can still install {{ site.spout_html 
 
 > Before starting, make sure your system meets the [requirements](#requirements).
 
-1. Download the source code from the [Releases page](https://github.com/box/spout/releases)
+1. Download the source code from the [Releases page](https://github.com/imaginaroom/spout/releases)
 2. Extract the downloaded content into your project.
 3. Add this code to the top controller (e.g. index.php) or wherever it may be more appropriate:
 
